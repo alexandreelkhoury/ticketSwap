@@ -1,0 +1,15 @@
+.WC {
+    position: fixed;
+    top: 30px; /* adjust the value to move the element down */
+    right: 15px; /* add this property to move the element to the left */
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the space between cards as needed */
+    justify-content: space-between; /* Ensure spacing between columns */
+    max-width: 1500px;
+    margin: 120px auto 0; /* Center the container horizontally */
+    padding: 10px; /* Add padding to the container as needed */
+}

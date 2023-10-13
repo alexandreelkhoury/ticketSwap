@@ -1,0 +1,5 @@
+.WC {
+    position: fixed;
+    top: 30px; /* adjust the value to move the element down */
+    right: 15px; /* add this property to move the element to the left */
+}
