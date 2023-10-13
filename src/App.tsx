@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import { Link } from "react-router-dom";
 import firebase from './Firebase';
 
-const ref = firebase.firestore().collection('ticketswap');
+const ref = firebase.firestore().collection('summerFestival');
 
 function App() {
 
